@@ -23,3 +23,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/ahdithanu/ml-retail-insights.git
 cd ml-retail-insights
+
+
+#Acknowledgments
+
+This dashboard was created as part of my Northwestern MSDS coursework with Avik Dutta and Savannah Lucero and extended into a personal project.
+
+Special thanks to:
+	•	ChatGPT (OpenAI) — for code generation, debugging, and design support.
+	•	Claude (Anthropic) — for additional improvements and testing guidance.
