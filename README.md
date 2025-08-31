@@ -1,4 +1,4 @@
-# 🛍L Retail Insights
+# 🛍ML Retail Insights
 
 **ML Retail Insights** is a Streamlit-powered dashboard for exploring retail customer data, performing segmentation, and building churn prediction models.  
 
